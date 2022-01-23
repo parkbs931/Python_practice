@@ -1,0 +1,6 @@
+header{color:red}
+h1{color:blue}
+p{color:blue}
+.place{width:500px;height:500px;background-color:yellow}
+.font{font-size:50px;font-family:Arial,Times,sans-serif;font-style:italic;font-weight:bold}
+.background{width:500px;height:500px;background-color:yellow;background-image:url(rice.png);background-repeat:no-repeat;background-position:left}
